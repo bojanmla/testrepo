@@ -1,0 +1,669 @@
+LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER WANMAC;
+
+
+   8157769 2022-10-21 14:38:23
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=1
+   blktotal=1
+
+ONT POTS attributes of the device KR-OLT-06
+---------------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	ADDTYPE	DNSENABLE	DNSSVR	PPPOEUSER	WANMAC
+8157769	0	2	10	12	2	HSI	--	--	--	--	PPPoE	--	--	brankaatanasovska@t-home.mk	--
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=DEV=LI-OLT-03,FN=0,SN=6,PN=2,ONTID=0:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER WANMAC;
+
+
+   0 2022-10-21 14:39:46
+M  5 DENY
+   EN=2686058531   ENDESC=The device does not exist
+;LST-ONTWAN::DEV=DEV=LI-OLT-03,FN=0,SN=6,PN=2,ONTID=29:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER WANMAC;
+
+
+   0 2022-10-21 14:40:07
+M  5 DENY
+   EN=2686058531   ENDESC=The device does not exist
+;
+LST-ONTWAN::DEV=DEV=CE-OLT-02,FN=0,SN=17,PN=5,ONTID=10:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER WANMAC;
+
+
+   0 2022-10-21 14:41:14
+M  5 DENY
+   EN=2686058531   ENDESC=The device does not exist
+;
+
+
+;
+
+
+   0 2022-10-21 14:42:13
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;LST-ONTWAN::DEV=DEV=CE-OLT-02,FN=0,SN=17,PN=5,ONTID=11:CTAG::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER WANMAC;
+
+
+   0 2022-10-21 14:42:17
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;LST-ONTWAN::DEV=CE-OLT-02,FN=0,SN=17,PN=5,ONTID=11:CTAG::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER WANMAC;
+
+
+   7340034 2022-10-21 14:42:35
+M  CTAG COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=1
+   blktotal=1
+
+ONT POTS attributes of the device CE-OLT-02
+---------------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	ADDTYPE	DNSENABLE	DNSSVR	PPPOEUSER	WANMAC
+7340034	0	17	5	11	2	HSI	--	--	--	--	PPPoE	--	--	marija.cipusheva@t-home.mk	--
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW;] 
+
+
+   8157769 2022-10-21 14:44:03
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+--------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200
+--------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER WANMAC;
+
+
+   0 2022-10-21 14:45:12
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;
+;
+
+
+   0 2022-10-21 15:06:21
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW
+;
+
+
+   8157769 2022-10-21 15:06:59
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+--------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200
+--------------------------------------------------------------------------------------------
+
+
+;;
+
+
+   0 2022-10-21 15:07:17
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW;
+
+
+   0 2022-10-21 15:07:21
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW;
+
+
+   0 2022-10-21 15:09:17
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;;
+
+
+   0 2022-10-21 15:09:21
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW;
+
+
+   8157769 2022-10-21 15:09:26
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+--------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200
+--------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER WANMAC;
+
+
+   8157769 2022-10-21 15:09:54
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=1
+   blktotal=1
+
+ONT POTS attributes of the device KR-OLT-06
+---------------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	ADDTYPE	DNSENABLE	DNSSVR	PPPOEUSER	WANMAC
+8157769	0	2	10	12	2	HSI	--	--	--	--	PPPoE	--	--	brankaatanasovska@t-home.mk	--
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION;
+
+
+   0 2022-10-21 15:12:01
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW;
+
+
+   8157769 2022-10-21 15:12:19
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+--------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200
+--------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE;
+
+
+   8157769 2022-10-21 15:12:35
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+---------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	ADDTYPE
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1	DHCP
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200	PPPoE
+---------------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE;
+
+
+   8157769 2022-10-21 15:12:56
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	ADDTYPE	DNSENABLE
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1	DHCP	Enable
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200	PPPoE	Enable
+------------------------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR;
+
+
+   8157769 2022-10-21 15:13:48
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	ADDTYPE	DNSENABLE	DNSSVR
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1	DHCP	Enable	172.25.53.244,172.25.63.244
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200	PPPoE	Enable	62.162.32.5,62.162.32.165
+------------------------------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR PPPOEUSER;
+
+
+   8157769 2022-10-21 15:15:10
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=1
+   blktotal=1
+
+ONT POTS attributes of the device KR-OLT-06
+---------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	ADDTYPE	DNSENABLE	DNSSVR	PPPOEUSER
+8157769	0	2	10	12	2	HSI	--	--	--	--	PPPoE	--	--	brankaatanasovska@t-home.mk
+---------------------------------------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW ADDTYPE DNSENABLE DNSSVR WANMAC;
+
+
+   8157769 2022-10-21 15:15:56
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	ADDTYPE	DNSENABLE	DNSSVR	WANMAC
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1	DHCP	Enable	172.25.53.244,172.25.63.244	C4-FF-1F-74-F8-24
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200	PPPoE	Enable	62.162.32.5,62.162.32.165	C4-FF-1F-74-F8-25
+------------------------------------------------------------------------------------------------------------------------
+
+
+;LST-ONTWAN::DEV=KR-OLT-06,FN=0,SN=2,PN=10,ONTID=12:5::SHOWOPTION=WANID WANNAME WANIPADDR WANSUBMASK WANVLAN WANGW DNSSVR;
+
+
+   8157769 2022-10-21 15:17:03
+M  5 COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=2
+   blktotal=2
+
+ONT POTS attributes of the device KR-OLT-06
+--------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	ONTID	WANID	WANNAME	WANIPADDR	WANSUBMASK	WANVLAN	WANGW	DNSSVR
+8157769	0	2	10	12	1	VOIP	10.5.26.103	255.252.0.0	975	10.4.0.1	172.25.53.244,172.25.63.244
+8157769	0	2	10	12	2	HSI	46.217.183.28	--	410	62.162.200.200	62.162.32.5,62.162.32.165
+--------------------------------------------------------------------------------------------------
+
+
+;LST-GEMPORT::DEV=Test_Direkcija,FN=0,SN=11,PN=0:CTAG::;
+
+
+   8157793 2022-10-28 10:41:37
+M  CTAG COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=100
+   blktotal=142
+
+Gemport information of the device Test_Direkcija
+-------------------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	GEMPORTID	NAME	ALIAS	BINDONT	DBAPROF	TCONTPQ	AVERBAND	MAXBAND	DNENCRYPT	SERVICETYPE	CASCADE
+8157793	0	11	0	128	Test_Direkcija/Frame0/Slot11/Port0/GemPortID128	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID16	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	129	Test_Direkcija/Frame0/Slot11/Port0/GemPortID129	VoIP_975_F2105621	Test_Direkcija/Frame0/Slot11/Port0/OnuID6	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	130	Test_Direkcija/Frame0/Slot11/Port0/GemPortID130	IPTV_413_F2105621	Test_Direkcija/Frame0/Slot11/Port0/OnuID6	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	131	Test_Direkcija/Frame0/Slot11/Port0/GemPortID131	Internet_410_F2105621	Test_Direkcija/Frame0/Slot11/Port0/OnuID6	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	132	Test_Direkcija/Frame0/Slot11/Port0/GemPortID132	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	133	Test_Direkcija/Frame0/Slot11/Port0/GemPortID133	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	134	Test_Direkcija/Frame0/Slot11/Port0/GemPortID134	iptv	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	135	Test_Direkcija/Frame0/Slot11/Port0/GemPortID135	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	136	Test_Direkcija/Frame0/Slot11/Port0/GemPortID136	293	Test_Direkcija/Frame0/Slot11/Port0/OnuID8	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	137	Test_Direkcija/Frame0/Slot11/Port0/GemPortID137	voip	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	138	Test_Direkcija/Frame0/Slot11/Port0/GemPortID138	293	Test_Direkcija/Frame0/Slot11/Port0/OnuID16	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	139	Test_Direkcija/Frame0/Slot11/Port0/GemPortID139	internet	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	140	Test_Direkcija/Frame0/Slot11/Port0/GemPortID140	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID2	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	141	Test_Direkcija/Frame0/Slot11/Port0/GemPortID141	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	142	Test_Direkcija/Frame0/Slot11/Port0/GemPortID142	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID2	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	143	Test_Direkcija/Frame0/Slot11/Port0/GemPortID143	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	144	Test_Direkcija/Frame0/Slot11/Port0/GemPortID144	mgm	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	145	Test_Direkcija/Frame0/Slot11/Port0/GemPortID145	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID2	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	146	Test_Direkcija/Frame0/Slot11/Port0/GemPortID146	985	Test_Direkcija/Frame0/Slot11/Port0/OnuID21	--	2	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	147	Test_Direkcija/Frame0/Slot11/Port0/GemPortID147	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	148	Test_Direkcija/Frame0/Slot11/Port0/GemPortID148	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID4	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	149	Test_Direkcija/Frame0/Slot11/Port0/GemPortID149	413	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	150	Test_Direkcija/Frame0/Slot11/Port0/GemPortID150	408	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	151	Test_Direkcija/Frame0/Slot11/Port0/GemPortID151	403	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	152	Test_Direkcija/Frame0/Slot11/Port0/GemPortID152	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	153	Test_Direkcija/Frame0/Slot11/Port0/GemPortID153	414	Test_Direkcija/Frame0/Slot11/Port0/OnuID4	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	154	Test_Direkcija/Frame0/Slot11/Port0/GemPortID154	TEST	RCT-GRADSKI TELEFON F2105622	--	0	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	155	Test_Direkcija/Frame0/Slot11/Port0/GemPortID155	TEST	RCT-GRADSKI TELEFON F2105622	--	3	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	156	Test_Direkcija/0/11/0/156	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105612	--	3	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	157	Test_Direkcija/Frame0/Slot11/Port0/GemPortID157	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID4	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	158	Test_Direkcija/Frame0/Slot11/Port0/GemPortID158	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105612	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	159	Test_Direkcija/Frame0/Slot11/Port0/GemPortID159	414	Test_Direkcija/Frame0/Slot11/Port0/OnuID2	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	160	Test_Direkcija/Frame0/Slot11/Port0/GemPortID160	403	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	162	Test_Direkcija/Frame0/Slot11/Port0/GemPortID162	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	163	Test_Direkcija/Frame0/Slot11/Port0/GemPortID163	414	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	164	Test_Direkcija/Frame0/Slot11/Port0/GemPortID164	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	165	Test_Direkcija/Frame0/Slot11/Port0/GemPortID165	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID5	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	166	Test_Direkcija/Frame0/Slot11/Port0/GemPortID166	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	167	Test_Direkcija/Frame0/Slot11/Port0/GemPortID167	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	168	Test_Direkcija/Frame0/Slot11/Port0/GemPortID168	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	169	Test_Direkcija/Frame0/Slot11/Port0/GemPortID169	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	170	Test_Direkcija/Frame0/Slot11/Port0/GemPortID170	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	171	Test_Direkcija/Frame0/Slot11/Port0/GemPortID171	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID5	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	172	Test_Direkcija/Frame0/Slot11/Port0/GemPortID172	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	173	Test_Direkcija/Frame0/Slot11/Port0/GemPortID173	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	174	Test_Direkcija/Frame0/Slot11/Port0/GemPortID174	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID5	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	175	Test_Direkcija/Frame0/Slot11/Port0/GemPortID175	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID3	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	176	Test_Direkcija/Frame0/Slot11/Port0/GemPortID176	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	177	Test_Direkcija/Frame0/Slot11/Port0/GemPortID177	414	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	178	Test_Direkcija/Frame0/Slot11/Port0/GemPortID178	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	179	Test_Direkcija/Frame0/Slot11/Port0/GemPortID179	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID3	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	180	Test_Direkcija/Frame0/Slot11/Port0/GemPortID180	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID3	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	181	Test_Direkcija/0/11/0/181	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105619	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	182	Test_Direkcija/Frame0/Slot11/Port0/GemPortID182	1410	Test_Direkcija/Frame0/Slot11/Port0/OnuID5	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	183	Test_Direkcija/0/11/0/183	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105619	--	3	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	184	Test_Direkcija/Frame0/Slot11/Port0/GemPortID184	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	185	Test_Direkcija/Frame0/Slot11/Port0/GemPortID185	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	186	Test_Direkcija/Frame0/Slot11/Port0/GemPortID186	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	187	Test_Direkcija/Frame0/Slot11/Port0/GemPortID187	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	188	Test_Direkcija/Frame0/Slot11/Port0/GemPortID188	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	189	Test_Direkcija/Frame0/Slot11/Port0/GemPortID189	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	190	Test_Direkcija/Frame0/Slot11/Port0/GemPortID190	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	191	Test_Direkcija/Frame0/Slot11/Port0/GemPortID191	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID0	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	192	Test_Direkcija/Frame0/Slot11/Port0/GemPortID192	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	194	Test_Direkcija/Frame0/Slot11/Port0/GemPortID194	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105612	--	2	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	195	Test_Direkcija/Frame0/Slot11/Port0/GemPortID195	410	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	196	Test_Direkcija/Frame0/Slot11/Port0/GemPortID196	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	197	Test_Direkcija/Frame0/Slot11/Port0/GemPortID197	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	198	Test_Direkcija/Frame0/Slot11/Port0/GemPortID198	414	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	199	Test_Direkcija/Frame0/Slot11/Port0/GemPortID199	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	200	Test_Direkcija/Frame0/Slot11/Port0/GemPortID200	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	201	Test_Direkcija/Frame0/Slot11/Port0/GemPortID201	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID16	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	202	Test_Direkcija/Frame0/Slot11/Port0/GemPortID202	414	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	203	Test_Direkcija/Frame0/Slot11/Port0/GemPortID203	403	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	204	Test_Direkcija/Frame0/Slot11/Port0/GemPortID204	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID0	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	205	Test_Direkcija/Frame0/Slot11/Port0/GemPortID205	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID9	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	206	Test_Direkcija/Frame0/Slot11/Port0/GemPortID206	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID9	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	207	Test_Direkcija/Frame0/Slot11/Port0/GemPortID207	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	208	Test_Direkcija/Frame0/Slot11/Port0/GemPortID208	Mgmt_408_FTestVLAN	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	209	Test_Direkcija/Frame0/Slot11/Port0/GemPortID209	Mgmt_408_FTestVLAN	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	210	Test_Direkcija/Frame0/Slot11/Port0/GemPortID210	106	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	211	Test_Direkcija/Frame0/Slot11/Port0/GemPortID211	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	212	Test_Direkcija/Frame0/Slot11/Port0/GemPortID212	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	213	Test_Direkcija/Frame0/Slot11/Port0/GemPortID213	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID0	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	214	Test_Direkcija/Frame0/Slot11/Port0/GemPortID214	410	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	215	Test_Direkcija/Frame0/Slot11/Port0/GemPortID215	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	216	Test_Direkcija/Frame0/Slot11/Port0/GemPortID216	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	217	Test_Direkcija/Frame0/Slot11/Port0/GemPortID217	414	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	218	Test_Direkcija/Frame0/Slot11/Port0/GemPortID218	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	219	Test_Direkcija/Frame0/Slot11/Port0/GemPortID219	988	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	220	Test_Direkcija/Frame0/Slot11/Port0/GemPortID220	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	221	Test_Direkcija/Frame0/Slot11/Port0/GemPortID221	413	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	222	Test_Direkcija/Frame0/Slot11/Port0/GemPortID222	975	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	223	Test_Direkcija/Frame0/Slot11/Port0/GemPortID223	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	224	Test_Direkcija/Frame0/Slot11/Port0/GemPortID224	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID14	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	225	Test_Direkcija/Frame0/Slot11/Port0/GemPortID225	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID9	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	226	Test_Direkcija/Frame0/Slot11/Port0/GemPortID226	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID14	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	227	Test_Direkcija/Frame0/Slot11/Port0/GemPortID227	414	Test_Direkcija/Frame0/Slot11/Port0/OnuID9	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	229	Test_Direkcija/Frame0/Slot11/Port0/GemPortID229	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	230	Test_Direkcija/Frame0/Slot11/Port0/GemPortID230	Internet_410_F9134835	Tedzt MC z Tedzt MC n F9134835	--	0	--	--	DISABLE	ETH	OFF
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+>
+
+   8157793 2022-10-28 10:41:37
+M  CTAG COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=2
+   blkcount=42
+   blktotal=142
+
+Gemport information of the device Test_Direkcija
+-------------------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	GEMPORTID	NAME	ALIAS	BINDONT	DBAPROF	TCONTPQ	AVERBAND	MAXBAND	DNENCRYPT	SERVICETYPE	CASCADE
+8157793	0	11	0	231	Test_Direkcija/Frame0/Slot11/Port0/GemPortID231	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	232	Test_Direkcija/Frame0/Slot11/Port0/GemPortID232	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	233	Test_Direkcija/Frame0/Slot11/Port0/GemPortID233	VoIP_975_F9134835	Tedzt MC z Tedzt MC n F9134835	--	3	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	234	Test_Direkcija/Frame0/Slot11/Port0/GemPortID234	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID21	--	0	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	235	Test_Direkcija/Frame0/Slot11/Port0/GemPortID235	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID21	--	0	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	236	Test_Direkcija/Frame0/Slot11/Port0/GemPortID236	293	Test_Direkcija/Frame0/Slot11/Port0/OnuID0	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	237	Test_Direkcija/Frame0/Slot11/Port0/GemPortID237	IPTV_413_F2105619	RCT-GRADSKI TELEFON F2105619	--	2	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	238	Test_Direkcija/Frame0/Slot11/Port0/GemPortID238	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	239	Test_Direkcija/Frame0/Slot11/Port0/GemPortID239	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	240	Test_Direkcija/Frame0/Slot11/Port0/GemPortID240	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	241	Test_Direkcija/Frame0/Slot11/Port0/GemPortID241	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	242	Test_Direkcija/Frame0/Slot11/Port0/GemPortID242	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	243	Test_Direkcija/Frame0/Slot11/Port0/GemPortID243	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	244	Test_Direkcija/Frame0/Slot11/Port0/GemPortID244	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	245	Test_Direkcija/Frame0/Slot11/Port0/GemPortID245	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	246	Test_Direkcija/Frame0/Slot11/Port0/GemPortID246	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	247	Test_Direkcija/Frame0/Slot11/Port0/GemPortID247	313	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	248	Test_Direkcija/Frame0/Slot11/Port0/GemPortID248	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID4	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	250	Test_Direkcija/Frame0/Slot11/Port0/GemPortID250	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	251	Test_Direkcija/Frame0/Slot11/Port0/GemPortID251	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	252	Test_Direkcija/Frame0/Slot11/Port0/GemPortID252	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	253	Test_Direkcija/Frame0/Slot11/Port0/GemPortID253	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105622	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	254	Test_Direkcija/Frame0/Slot11/Port0/GemPortID254	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	256	Test_Direkcija/Frame0/Slot11/Port0/GemPortID256	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID13	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	257	Test_Direkcija/Frame0/Slot11/Port0/GemPortID257	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID13	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	258	Test_Direkcija/Frame0/Slot11/Port0/GemPortID258	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID13	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	259	Test_Direkcija/Frame0/Slot11/Port0/GemPortID259	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID13	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	260	Test_Direkcija/Frame0/Slot11/Port0/GemPortID260	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID15	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	263	Test_Direkcija/Frame0/Slot11/Port0/GemPortID263	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	264	Test_Direkcija/Frame0/Slot11/Port0/GemPortID264	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	265	Test_Direkcija/Frame0/Slot11/Port0/GemPortID265	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	266	Test_Direkcija/Frame0/Slot11/Port0/GemPortID266	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID15	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	267	Test_Direkcija/Frame0/Slot11/Port0/GemPortID267	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID15	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	268	Test_Direkcija/Frame0/Slot11/Port0/GemPortID268	414	Test_Direkcija/Frame0/Slot11/Port0/OnuID15	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	400	Test_Direkcija/0/11/0/400	NO_DESCRIPTION	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	401	Test_Direkcija/0/11/0/401	NO_DESCRIPTION	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	402	Test_Direkcija/0/11/0/402	NO_DESCRIPTION	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	412	Test_Direkcija/0/11/0/412	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	500	Test_Direkcija/Frame0/Slot11/Port0/GemPortID500	Gaming	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	1400	Test_Direkcija/Frame0/Slot11/Port0/GemPortID1400	1234	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	2349	Test_Direkcija/Frame0/Slot11/Port0/GemPortID2349	IPTV	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	2350	Test_Direkcija/Frame0/Slot11/Port0/GemPortID2350	IPTV-UAT	--	--	--	--	--	ENABLE	ETH	OFF
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+;LST-GEMPORT::DEV=Test_Direkcija,FN=0,SN=11,PN=0:CTAG::;
+
+
+   0 2022-10-28 10:44:42
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;
+;
+
+
+   0 2022-10-28 10:44:48
+M  0 COMPLD
+   EN=2686058497   ENDESC=Command syntax error
+;
+LST-GEMPORT::DEV=Test_Direkcija,FN=0,SN=11,PN=0:CTAG::;
+
+
+   8157793 2022-10-28 10:44:57
+M  CTAG COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=1
+   blkcount=100
+   blktotal=142
+
+Gemport information of the device Test_Direkcija
+-------------------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	GEMPORTID	NAME	ALIAS	BINDONT	DBAPROF	TCONTPQ	AVERBAND	MAXBAND	DNENCRYPT	SERVICETYPE	CASCADE
+8157793	0	11	0	128	Test_Direkcija/Frame0/Slot11/Port0/GemPortID128	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID16	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	129	Test_Direkcija/Frame0/Slot11/Port0/GemPortID129	VoIP_975_F2105621	Test_Direkcija/Frame0/Slot11/Port0/OnuID6	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	130	Test_Direkcija/Frame0/Slot11/Port0/GemPortID130	IPTV_413_F2105621	Test_Direkcija/Frame0/Slot11/Port0/OnuID6	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	131	Test_Direkcija/Frame0/Slot11/Port0/GemPortID131	Internet_410_F2105621	Test_Direkcija/Frame0/Slot11/Port0/OnuID6	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	132	Test_Direkcija/Frame0/Slot11/Port0/GemPortID132	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	133	Test_Direkcija/Frame0/Slot11/Port0/GemPortID133	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	134	Test_Direkcija/Frame0/Slot11/Port0/GemPortID134	iptv	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	135	Test_Direkcija/Frame0/Slot11/Port0/GemPortID135	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	136	Test_Direkcija/Frame0/Slot11/Port0/GemPortID136	293	Test_Direkcija/Frame0/Slot11/Port0/OnuID8	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	137	Test_Direkcija/Frame0/Slot11/Port0/GemPortID137	voip	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	138	Test_Direkcija/Frame0/Slot11/Port0/GemPortID138	293	Test_Direkcija/Frame0/Slot11/Port0/OnuID16	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	139	Test_Direkcija/Frame0/Slot11/Port0/GemPortID139	internet	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	140	Test_Direkcija/Frame0/Slot11/Port0/GemPortID140	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID2	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	141	Test_Direkcija/Frame0/Slot11/Port0/GemPortID141	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	142	Test_Direkcija/Frame0/Slot11/Port0/GemPortID142	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID2	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	143	Test_Direkcija/Frame0/Slot11/Port0/GemPortID143	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	144	Test_Direkcija/Frame0/Slot11/Port0/GemPortID144	mgm	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	145	Test_Direkcija/Frame0/Slot11/Port0/GemPortID145	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID2	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	146	Test_Direkcija/Frame0/Slot11/Port0/GemPortID146	985	Test_Direkcija/Frame0/Slot11/Port0/OnuID21	--	2	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	147	Test_Direkcija/Frame0/Slot11/Port0/GemPortID147	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	148	Test_Direkcija/Frame0/Slot11/Port0/GemPortID148	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID4	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	149	Test_Direkcija/Frame0/Slot11/Port0/GemPortID149	413	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	150	Test_Direkcija/Frame0/Slot11/Port0/GemPortID150	408	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	151	Test_Direkcija/Frame0/Slot11/Port0/GemPortID151	403	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	152	Test_Direkcija/Frame0/Slot11/Port0/GemPortID152	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	153	Test_Direkcija/Frame0/Slot11/Port0/GemPortID153	414	Test_Direkcija/Frame0/Slot11/Port0/OnuID4	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	154	Test_Direkcija/Frame0/Slot11/Port0/GemPortID154	TEST	RCT-GRADSKI TELEFON F2105622	--	0	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	155	Test_Direkcija/Frame0/Slot11/Port0/GemPortID155	TEST	RCT-GRADSKI TELEFON F2105622	--	3	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	156	Test_Direkcija/0/11/0/156	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105612	--	3	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	157	Test_Direkcija/Frame0/Slot11/Port0/GemPortID157	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID4	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	158	Test_Direkcija/Frame0/Slot11/Port0/GemPortID158	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105612	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	159	Test_Direkcija/Frame0/Slot11/Port0/GemPortID159	414	Test_Direkcija/Frame0/Slot11/Port0/OnuID2	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	160	Test_Direkcija/Frame0/Slot11/Port0/GemPortID160	403	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	162	Test_Direkcija/Frame0/Slot11/Port0/GemPortID162	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	163	Test_Direkcija/Frame0/Slot11/Port0/GemPortID163	414	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	164	Test_Direkcija/Frame0/Slot11/Port0/GemPortID164	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	165	Test_Direkcija/Frame0/Slot11/Port0/GemPortID165	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID5	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	166	Test_Direkcija/Frame0/Slot11/Port0/GemPortID166	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	167	Test_Direkcija/Frame0/Slot11/Port0/GemPortID167	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	168	Test_Direkcija/Frame0/Slot11/Port0/GemPortID168	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	169	Test_Direkcija/Frame0/Slot11/Port0/GemPortID169	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	170	Test_Direkcija/Frame0/Slot11/Port0/GemPortID170	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	171	Test_Direkcija/Frame0/Slot11/Port0/GemPortID171	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID5	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	172	Test_Direkcija/Frame0/Slot11/Port0/GemPortID172	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	173	Test_Direkcija/Frame0/Slot11/Port0/GemPortID173	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	174	Test_Direkcija/Frame0/Slot11/Port0/GemPortID174	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID5	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	175	Test_Direkcija/Frame0/Slot11/Port0/GemPortID175	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID3	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	176	Test_Direkcija/Frame0/Slot11/Port0/GemPortID176	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	177	Test_Direkcija/Frame0/Slot11/Port0/GemPortID177	414	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	178	Test_Direkcija/Frame0/Slot11/Port0/GemPortID178	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	179	Test_Direkcija/Frame0/Slot11/Port0/GemPortID179	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID3	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	180	Test_Direkcija/Frame0/Slot11/Port0/GemPortID180	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID3	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	181	Test_Direkcija/0/11/0/181	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105619	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	182	Test_Direkcija/Frame0/Slot11/Port0/GemPortID182	1410	Test_Direkcija/Frame0/Slot11/Port0/OnuID5	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	183	Test_Direkcija/0/11/0/183	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105619	--	3	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	184	Test_Direkcija/Frame0/Slot11/Port0/GemPortID184	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	185	Test_Direkcija/Frame0/Slot11/Port0/GemPortID185	TEST	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	186	Test_Direkcija/Frame0/Slot11/Port0/GemPortID186	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	187	Test_Direkcija/Frame0/Slot11/Port0/GemPortID187	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	188	Test_Direkcija/Frame0/Slot11/Port0/GemPortID188	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	189	Test_Direkcija/Frame0/Slot11/Port0/GemPortID189	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	190	Test_Direkcija/Frame0/Slot11/Port0/GemPortID190	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	191	Test_Direkcija/Frame0/Slot11/Port0/GemPortID191	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID0	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	192	Test_Direkcija/Frame0/Slot11/Port0/GemPortID192	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	194	Test_Direkcija/Frame0/Slot11/Port0/GemPortID194	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105612	--	2	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	195	Test_Direkcija/Frame0/Slot11/Port0/GemPortID195	410	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	196	Test_Direkcija/Frame0/Slot11/Port0/GemPortID196	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	197	Test_Direkcija/Frame0/Slot11/Port0/GemPortID197	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	198	Test_Direkcija/Frame0/Slot11/Port0/GemPortID198	414	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	199	Test_Direkcija/Frame0/Slot11/Port0/GemPortID199	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	200	Test_Direkcija/Frame0/Slot11/Port0/GemPortID200	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	201	Test_Direkcija/Frame0/Slot11/Port0/GemPortID201	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID16	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	202	Test_Direkcija/Frame0/Slot11/Port0/GemPortID202	414	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	203	Test_Direkcija/Frame0/Slot11/Port0/GemPortID203	403	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	204	Test_Direkcija/Frame0/Slot11/Port0/GemPortID204	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID0	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	205	Test_Direkcija/Frame0/Slot11/Port0/GemPortID205	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID9	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	206	Test_Direkcija/Frame0/Slot11/Port0/GemPortID206	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID9	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	207	Test_Direkcija/Frame0/Slot11/Port0/GemPortID207	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	208	Test_Direkcija/Frame0/Slot11/Port0/GemPortID208	Mgmt_408_FTestVLAN	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	209	Test_Direkcija/Frame0/Slot11/Port0/GemPortID209	Mgmt_408_FTestVLAN	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	210	Test_Direkcija/Frame0/Slot11/Port0/GemPortID210	106	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	211	Test_Direkcija/Frame0/Slot11/Port0/GemPortID211	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	212	Test_Direkcija/Frame0/Slot11/Port0/GemPortID212	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	213	Test_Direkcija/Frame0/Slot11/Port0/GemPortID213	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID0	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	214	Test_Direkcija/Frame0/Slot11/Port0/GemPortID214	410	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	215	Test_Direkcija/Frame0/Slot11/Port0/GemPortID215	975	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	216	Test_Direkcija/Frame0/Slot11/Port0/GemPortID216	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	217	Test_Direkcija/Frame0/Slot11/Port0/GemPortID217	414	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	218	Test_Direkcija/Frame0/Slot11/Port0/GemPortID218	413	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	219	Test_Direkcija/Frame0/Slot11/Port0/GemPortID219	988	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	220	Test_Direkcija/Frame0/Slot11/Port0/GemPortID220	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	221	Test_Direkcija/Frame0/Slot11/Port0/GemPortID221	413	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	222	Test_Direkcija/Frame0/Slot11/Port0/GemPortID222	975	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	223	Test_Direkcija/Frame0/Slot11/Port0/GemPortID223	410	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	224	Test_Direkcija/Frame0/Slot11/Port0/GemPortID224	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID14	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	225	Test_Direkcija/Frame0/Slot11/Port0/GemPortID225	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID9	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	226	Test_Direkcija/Frame0/Slot11/Port0/GemPortID226	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID14	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	227	Test_Direkcija/Frame0/Slot11/Port0/GemPortID227	414	Test_Direkcija/Frame0/Slot11/Port0/OnuID9	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	229	Test_Direkcija/Frame0/Slot11/Port0/GemPortID229	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	230	Test_Direkcija/Frame0/Slot11/Port0/GemPortID230	Internet_410_F9134835	Tedzt MC z Tedzt MC n F9134835	--	0	--	--	DISABLE	ETH	OFF
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+>
+
+   8157793 2022-10-28 10:44:57
+M  CTAG COMPLD
+   EN=0   ENDESC=Succeeded.
+   blktag=2
+   blkcount=42
+   blktotal=142
+
+Gemport information of the device Test_Direkcija
+-------------------------------------------------------------------------------------------------------------------------------------
+DID	FN	SN	PN	GEMPORTID	NAME	ALIAS	BINDONT	DBAPROF	TCONTPQ	AVERBAND	MAXBAND	DNENCRYPT	SERVICETYPE	CASCADE
+8157793	0	11	0	231	Test_Direkcija/Frame0/Slot11/Port0/GemPortID231	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	232	Test_Direkcija/Frame0/Slot11/Port0/GemPortID232	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	233	Test_Direkcija/Frame0/Slot11/Port0/GemPortID233	VoIP_975_F9134835	Tedzt MC z Tedzt MC n F9134835	--	3	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	234	Test_Direkcija/Frame0/Slot11/Port0/GemPortID234	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID21	--	0	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	235	Test_Direkcija/Frame0/Slot11/Port0/GemPortID235	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID21	--	0	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	236	Test_Direkcija/Frame0/Slot11/Port0/GemPortID236	293	Test_Direkcija/Frame0/Slot11/Port0/OnuID0	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	237	Test_Direkcija/Frame0/Slot11/Port0/GemPortID237	IPTV_413_F2105619	RCT-GRADSKI TELEFON F2105619	--	2	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	238	Test_Direkcija/Frame0/Slot11/Port0/GemPortID238	IPTV_413_F9134853	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	239	Test_Direkcija/Frame0/Slot11/Port0/GemPortID239	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	240	Test_Direkcija/Frame0/Slot11/Port0/GemPortID240	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	241	Test_Direkcija/Frame0/Slot11/Port0/GemPortID241	NO_DESCRIPTION	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	242	Test_Direkcija/Frame0/Slot11/Port0/GemPortID242	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	243	Test_Direkcija/Frame0/Slot11/Port0/GemPortID243	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	244	Test_Direkcija/Frame0/Slot11/Port0/GemPortID244	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	245	Test_Direkcija/Frame0/Slot11/Port0/GemPortID245	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	246	Test_Direkcija/Frame0/Slot11/Port0/GemPortID246	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	247	Test_Direkcija/Frame0/Slot11/Port0/GemPortID247	313	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	248	Test_Direkcija/Frame0/Slot11/Port0/GemPortID248	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID4	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	250	Test_Direkcija/Frame0/Slot11/Port0/GemPortID250	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	251	Test_Direkcija/Frame0/Slot11/Port0/GemPortID251	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	252	Test_Direkcija/Frame0/Slot11/Port0/GemPortID252	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	253	Test_Direkcija/Frame0/Slot11/Port0/GemPortID253	NO_DESCRIPTION	RCT-GRADSKI TELEFON F2105622	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	254	Test_Direkcija/Frame0/Slot11/Port0/GemPortID254	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	256	Test_Direkcija/Frame0/Slot11/Port0/GemPortID256	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID13	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	257	Test_Direkcija/Frame0/Slot11/Port0/GemPortID257	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID13	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	258	Test_Direkcija/Frame0/Slot11/Port0/GemPortID258	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID13	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	259	Test_Direkcija/Frame0/Slot11/Port0/GemPortID259	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID13	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	260	Test_Direkcija/Frame0/Slot11/Port0/GemPortID260	410	Test_Direkcija/Frame0/Slot11/Port0/OnuID15	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	263	Test_Direkcija/Frame0/Slot11/Port0/GemPortID263	NO_DESCRIPTION	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	264	Test_Direkcija/Frame0/Slot11/Port0/GemPortID264	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	265	Test_Direkcija/Frame0/Slot11/Port0/GemPortID265	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	266	Test_Direkcija/Frame0/Slot11/Port0/GemPortID266	413	Test_Direkcija/Frame0/Slot11/Port0/OnuID15	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	267	Test_Direkcija/Frame0/Slot11/Port0/GemPortID267	975	Test_Direkcija/Frame0/Slot11/Port0/OnuID15	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	268	Test_Direkcija/Frame0/Slot11/Port0/GemPortID268	414	Test_Direkcija/Frame0/Slot11/Port0/OnuID15	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	400	Test_Direkcija/0/11/0/400	NO_DESCRIPTION	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	401	Test_Direkcija/0/11/0/401	NO_DESCRIPTION	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	402	Test_Direkcija/0/11/0/402	NO_DESCRIPTION	Test_Direkcija/0/11/0/1	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	412	Test_Direkcija/0/11/0/412	NO_DESCRIPTION	Test_Direkcija/Frame0/Slot11/Port0/OnuID12	--	0	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	500	Test_Direkcija/Frame0/Slot11/Port0/GemPortID500	Gaming	--	--	--	--	--	DISABLE	ETH	OFF
+8157793	0	11	0	1400	Test_Direkcija/Frame0/Slot11/Port0/GemPortID1400	1234	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	2349	Test_Direkcija/Frame0/Slot11/Port0/GemPortID2349	IPTV	--	--	--	--	--	ENABLE	ETH	OFF
+8157793	0	11	0	2350	Test_Direkcija/Frame0/Slot11/Port0/GemPortID2350	IPTV-UAT	--	--	--	--	--	ENABLE	ETH	OFF
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+;
